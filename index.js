@@ -16,7 +16,7 @@ const webpage = `
   <p>Documentation:</p>
   <ul>
     <li>Latest: <a href="https://xkcd.now.sh/?comic=latest"><pre>https://xkcd.now.sh/?comic=latest</pre></a></li>
-    <li>Comic #522 (and so on...): <a href="https://xkcd.now.sh/?comic=522"><pre>https://xkcd.now.sh/?comic=522</pre></a></li>
+    <li>Comic #303 (and so on...): <a href="https://xkcd.now.sh/?comic=303"><pre>https://xkcd.now.sh/?comic=303</pre></a></li>
   </ul>
 `;
 
