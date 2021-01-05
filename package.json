@@ -15,7 +15,7 @@
   "author": "Tim Whitacre",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "cors": "2.8.5",
     "express": "4.17.1"
   }
